@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thea Nilsson
 - 👀 I’m interested in games development, design and programming
-- 🕹️ All projects on my GitHub are in large part or entirely produced by me. Assets that I have not produced are imported or produced by group members in team projects.
+- 🕹️ All projects on my GitHub are in large part or entirely produced by me. Assets that I have not produced are imported from public libraries or produced by group members in team projects.
 - 🔜 I have more WIP projects than those posted on my GitHub. Check back later if you're interested.
 - 
 - 💞️ I’m looking to find employment in the games industry immediately following my education.
